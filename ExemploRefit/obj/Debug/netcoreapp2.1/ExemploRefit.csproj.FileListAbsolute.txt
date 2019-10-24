@@ -1,0 +1,11 @@
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\bin\Debug\netcoreapp2.1\ExemploRefit.deps.json
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\bin\Debug\netcoreapp2.1\ExemploRefit.runtimeconfig.json
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\bin\Debug\netcoreapp2.1\ExemploRefit.runtimeconfig.dev.json
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\bin\Debug\netcoreapp2.1\ExemploRefit.dll
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\obj\Debug\netcoreapp2.1\ExemploRefit.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\obj\Debug\netcoreapp2.1\ExemploRefit.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\obj\Debug\netcoreapp2.1\ExemploRefit.AssemblyInfo.cs
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\bin\Debug\netcoreapp2.1\ExemploRefit.pdb
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\obj\Debug\netcoreapp2.1\ExemploRefit.csprojAssemblyReference.cache
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\obj\Debug\netcoreapp2.1\ExemploRefit.dll
+C:\Users\paulo\Desktop\ExemploRefit\ExemploRefit\obj\Debug\netcoreapp2.1\ExemploRefit.pdb
